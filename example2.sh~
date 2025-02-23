@@ -7,10 +7,13 @@
 # Multiplication Function
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # This is test function
 =======
 # test function
 >>>>>>> 7e2697a (test commit)
+=======
+>>>>>>> 7539c32 (division function)
 x=a+b
 y=a-b
 z=a*b
