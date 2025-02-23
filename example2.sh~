@@ -15,6 +15,7 @@
 # Division Function
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7539c32 (division function)
 =======
 # percentage Function
@@ -25,3 +26,18 @@ y=a-b
 z=a*b
 w=a/b
 v=a%b
+=======
+# percentage Function
+
+x=a+b
+y=a-b
+z=a*b
+w=a/b
+v=a%b
+=======
+x=a+b
+y=a-b
+z=a*b
+w=a%b
+>>>>>>> 7539c32 (division function)
+>>>>>>> 981df5b (edited merge)
