@@ -6,16 +6,16 @@
 
 # Multiplication Function
 
-<<<<<<< HEAD
-
 # This is test function
 
 # test function
-=======
+#
 # Division Function
 
->>>>>>> 7539c32 (division function)
+# percentage Function
+
 x=a+b
 y=a-b
 z=a*b
-w=a%b
+w=a/b
+v=a%b
