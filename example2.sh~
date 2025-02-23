@@ -6,6 +6,11 @@
 
 # Multiplication Function
 
+<<<<<<< HEAD
+# This is test function
+=======
+# test function
+>>>>>>> 7e2697a (test commit)
 x=a+b
 y=a-b
 z=a*b
